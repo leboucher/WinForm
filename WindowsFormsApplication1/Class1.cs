@@ -8,5 +8,6 @@ namespace WindowsFormsApplication1
 {
     class Class1
     {
+        //Salut je suis un commentaire
     }
 }
